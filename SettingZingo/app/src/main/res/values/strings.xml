@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SettingZingo</string>
+    <string name="howtoplay" >
+        Zingo! is a game inspired by Bingo released by Rank World in 2017.
+        Players try to fill their Zingo! cards with matching tiles from the Zingo! "Zinger".
+
+
+        In the game, the dealer slides the Zinger to reveal two tiles at a time. When a player sees a tile that matches a picture on his/her board, he/she calls out the name of the object and places that tile on the matching space on their board. If two players have that tile, the person who calls out the name of the object first gets the tile.
+        The first player to fill his/her card wins. The Zingo cards allow for more or less competitive play.
+
+
+        The green sides have less images in common with the other 7 boards and are therefore more relaxed and less competitive. The green sides, however, have many of the same images and make for more intense games between players.
+    </string>
+</resources>
